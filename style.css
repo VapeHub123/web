@@ -18,8 +18,8 @@ body {
 }
 
 .swiper-slide {
-    width: 400px;
-    height: 600px;
+    width: 300px;
+    height: 500px;
     background-color: rgb(235, 231, 220);
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
     padding: 40px;
@@ -38,7 +38,7 @@ body {
 }
 
 .icons img {
-    width: 200px;
+    width: 120px;
 }
 
 .product-content {
@@ -52,19 +52,19 @@ body {
 }
 
 .product-txt span {
-    font-size: 30px;
+    font-size: 25px;
     color: rgb(62, 58, 55);
     font-weight: bold;
 }
 
 .product-txt h3 {
-    font-size: 30px;
+    font-size: 20px;
     color: #ffb900;
     text-transform: uppercase;
 }
 
 .product-txt h4 {
-    font-size:20px;
+    font-size:15px;
     color: #ffb900;
 }
 
@@ -79,7 +79,7 @@ body {
 }
 
 .product-img img {
-    width: 180px;
+    width: 120px;
 }
 
 .btn-1 {
