@@ -18,8 +18,8 @@ body {
 }
 
 .swiper-slide {
-    width: 500px;
-    height: 700px;
+    width: 400px;
+    height: 600px;
     background-color: rgb(235, 231, 220);
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.4);
     padding: 40px;
